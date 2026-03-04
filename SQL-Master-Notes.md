@@ -77,6 +77,7 @@ Used to clean or format text data.
 * `CONCAT(a, b)`: Joins two or more strings together (e.g., First Name + Last Name).
 * `TRIM(text)`: Removes extra spaces from the start and end.
 * `LENGTH(text)`: Returns the number of characters in a string.
+* `Distinct(text)`: Returns only the distinct values in a column.
 
 ### Date Functions
 Working with time can be tricky; these functions help extract specific parts of a date.
