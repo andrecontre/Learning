@@ -1,0 +1,13 @@
+region,team,COUNT(p.team)
+Midwest,Angry Ants,41
+Midwest,Baffled Badgers,57
+Midwest,Cosmic Cobras,51
+Northeast,Angry Ants,54
+Northeast,Baffled Badgers,64
+Northeast,Cosmic Cobras,61
+South,Angry Ants,163
+South,Baffled Badgers,123
+South,Cosmic Cobras,145
+West,Angry Ants,75
+West,Baffled Badgers,89
+West,Cosmic Cobras,77
